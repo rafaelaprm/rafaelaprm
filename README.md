@@ -22,7 +22,7 @@ Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Univ
 - ⚡ Nas horas vagas, gosto de jogar The Sims, assistir sitcoms e filmes de ficção científica.
 - ✨ Linguagens e ferramentas: 
       
-      (Intermediário) Python, numpy, pandas, matplotlib. 
+      (Intermediário) Python, Numpy, Pandas, Matplotlib. 
       
       (Básico) C, C++, LaTeX, Git, Java, Javascript, Qt/PyQt, HTML, CSS.
 
