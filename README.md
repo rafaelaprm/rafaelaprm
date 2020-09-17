@@ -21,12 +21,10 @@ Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Univ
 - 👯 Faço parte da organização da comunidade PyLadies Manaus. 
 - ⚡ Nas horas vagas, gosto de jogar The Sims, assistir sitcoms e filmes de ficção científica.
 - ✨ Linguagens e ferramentas: 
-
-      (Avançado) Python, numpy, pandas, matplotlib. 
       
-      (Intermediário) C, C++, LaTeX. 
+      (Intermediário) Python, numpy, pandas, matplotlib. 
       
-      (Básico) Git, Java, Javascript, Qt/PyQt, HTML, CSS.
+      (Básico) C, C++, LaTeX, Git, Java, Javascript, Qt/PyQt, HTML, CSS.
 
 
 Em 2020, fiz parte do SummerLab do Serasa Experian Datalab, lidando com Responsabilidade e Impacto Social em algoritmos de Aprendizado de Máquina. A experiência foi tão incrível que pretendo seguir nessa área de estudo. 
