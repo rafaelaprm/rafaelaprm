@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, pessoas! 👋
+### Olá, pessoas! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Universidade do Estado do Amazonas (UEA). Atualmente trabalho como Analista de Inteligência Artificial na Bemol Digital, integrando o time de IA da empresa. 
 
@@ -26,18 +26,15 @@ Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Univ
       
       (Básico) C, C++, LaTeX, Git, Java, Javascript, Qt/PyQt, HTML, CSS.
 
+- 👩‍💻 Atualmente, estou estudando para obter mais conhecimento nas áreas de Aprendizado de Máquina, Ciência de Dados e Desenvolvimento de Software.
 
-Em 2020, fiz parte do SummerLab do Serasa Experian Datalab, lidando com Responsabilidade e Impacto Social em algoritmos de Aprendizado de Máquina. A experiência foi tão incrível que pretendo seguir nessa área de estudo. 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"> Em 2020, fiz parte do SummerLab do Serasa Experian Datalab, lidando com Responsabilidade e Impacto Social em algoritmos de Aprendizado de Máquina. A experiência foi tão incrível que pretendo seguir nessa área de estudo. 
 
 
-Minhas redes sociais 📫
-
-<a target="_blank" href="https://www.linkedin.com/in/rafaelaprm/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/rafaelaprm/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:rafaelaprm@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+````bash
+> help --contact
+> linkedin: rafaelaprm
+> instagram: rafaelaprm
+> github: rafaelaprm
+> mailto: rafaelaprm [at] gmail.com
+````
