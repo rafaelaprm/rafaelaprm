@@ -28,7 +28,7 @@ Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Univ
 
 - 👩‍💻 Estou estudando para obter mais conhecimento nas áreas de Aprendizado de Máquina, Ciência de Dados e Desenvolvimento de Software.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"> Em 2020, fiz parte do SummerLab do Serasa Experian Datalab, lidando com Responsabilidade e Impacto Social em algoritmos de Aprendizado de Máquina. A experiência foi tão incrível que pretendo seguir nessa área de estudo. 
+Em 2020, fiz parte do SummerLab do Serasa Experian Datalab, lidando com Responsabilidade e Impacto Social em algoritmos de Aprendizado de Máquina. A experiência foi tão incrível que pretendo seguir nessa área de estudo. 
 
 
 ````bash
