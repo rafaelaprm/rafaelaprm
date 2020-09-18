@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Universidade do Estado do Amazonas (UEA). Atualmente trabalho como Analista de Inteligência Artificial na Bemol Digital, integrando o time de IA da empresa. 
 
 - 🌱 Apaixonada por Python e Pandas <3
-- 👯 Faço parte da organização da comunidade PyLadies Manaus. 
+- 👯 Faço parte da comunidade PyLadies Manaus. 
 - ⚡ Nas horas vagas, gosto de jogar The Sims, assistir sitcoms e filmes de ficção científica.
 - ✨ Linguagens e ferramentas: 
       
